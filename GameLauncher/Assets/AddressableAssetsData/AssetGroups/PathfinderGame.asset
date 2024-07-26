@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PathfinderGame
+  m_EditorClassIdentifier: 
+  m_GroupName: PathfinderGame
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bba0414921f58fc46b029d86449cfa8e
+  m_SerializeEntries:
+  - m_GUID: d2809ab9b90eea7419d8d90d4c505d35
+    m_Address: Assets/Scenes/PathfinderGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad5d3ca91ab4cda4195e2f3ec1f57651
+    m_Address: Assets/Systems/PathfinderGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 123c0411e0a7c5645af0c18d0e1e961a
+    m_Address: Assets/Import/RPGPP_LT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69ef29653a8d0314d868786a1e4f7fe5
+    m_Address: Assets/Import/Mixamo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cab47011c80179a46b2631171ecada0d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c881f827fc392e84a983bcf6ee01ea84, type: 2}
+    - {fileID: 11400000, guid: 158741d9894f65d498aeae9c1dc08754, type: 2}
